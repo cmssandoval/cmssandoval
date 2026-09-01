@@ -62,7 +62,7 @@ Outside of web development, I enjoy programming in Java and experimenting with g
 - **[Project name2](link)** — Project description and wich stack uses. | Pending... -->
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-macias-sandoval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-macias-sandoval)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlossan.16.mc@gmail.com)
 
 
