@@ -4,7 +4,7 @@
 
 [Español](README.md) | **English**
 
-Hi, I love programming. I mainly work with React and JavaScript/TypeScript to build frontend applications, and Express.js and PostgreSQL for backend APIs and servers. I also enjoy experimenting with operating systems, network systems, cybersecurity, and game development.
+Hi, I love programming. I mainly work with **React + JavaScript/TypeScript** to build frontend applications, and **Express.js + PostgreSQL** for backend APIs and servers. I also enjoy experimenting with operating systems, network systems, cybersecurity, and game development.
 
 ## 👋 About Me
 I am a **FullStack** developer with focus on **backend**, although I am also comfortable working on frontend (**HTML, CSS, JavaScript/TypeScript, Bootstrap, React**). I am currently deepening my knowledge of **Node.js**, **Express.js**, and **PostgreSQL** by building FullStack projects.
