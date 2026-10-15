@@ -19,26 +19,26 @@ I am a **FullStack** developer with focus on **backend**, although I am also com
     </thead>
     <tbody>
          <tr>
-            <td align="center"><a target="_blank" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a></td>
-            <td align="center"><a target="_blank" href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a></td>
-            <td align="center"><a target="_blank" href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a></td>
-            <td align="center"><a target="_blank" href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a></td>
+            <td align="center"><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a></td>
+            <td align="center"><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a></td>
+            <td align="center"><a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a></td>
+            <td align="center"><a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a></td>
         </tr>
     </tbody>
 </table>
 
 ## 🔍 Other Technologies
 <div align="center">
-    <a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-    <a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a target="_blank" href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-    <a target="_blank" href="https://n8n.io//"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-    <a target="_blank" href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
-    <a target="_blank" href="https://docs.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-    <a target="_blank" href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
-    <a target="_blank" href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-9146FF?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></a>
-    <a target="_blank" href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-    <a target="_blank" href="https://neoforged.net/"><img src="https://img.shields.io/badge/NeoForge-1B1B1B?style=for-the-badge" alt="NeoForge"/></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+    <a href="https://n8n.io//"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+    <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
+    <a href="https://docs.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
+    <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-9146FF?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></a>
+    <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+    <a href="https://neoforged.net/"><img src="https://img.shields.io/badge/NeoForge-1B1B1B?style=for-the-badge" alt="NeoForge"/></a>
 </div>
 
 ## 💼 [Visit My Portfolio](https://cmssandoval.github.io/portfolio)
